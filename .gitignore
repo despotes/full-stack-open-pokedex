@@ -1,2 +1,12 @@
 dist/
 node_modules/
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+.idea
+
+cypress/videos
+cypress/screenshots
+cypress/reports
